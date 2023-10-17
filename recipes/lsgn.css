@@ -1,0 +1,52 @@
+body{
+    background-color:rgb(249, 248, 226);
+    font-style: oblique;
+}
+
+#title{
+    font-size: 77px;
+    /* text-align: center; */
+    color: hsl(305, 87%, 15%);
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.des{
+    font-size: xx-large;
+    background-color: rgb(209, 236, 236);
+    font-family:'Times New Roman', Times, serif; 
+}
+
+p{
+    font-size: 20;
+    font-weight: 550;
+}
+
+.ing{
+    color: aliceblue;
+    background-color: green;
+
+}
+
+.list{
+    font-size: 30px;
+    color: #131012d6;
+    background-color: rgb(250, 251, 250);
+    font-weight: 300;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.step{
+    color: blue;
+    background-color: rgb(238, 226, 235);
+}
+
+.steps-text{
+    font-family: 'Times New Roman', Times, serif;
+    font-style:normal; 
+}

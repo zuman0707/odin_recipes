@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(
+    to bottom, 
+    #ca4a1f 000%, 
+    #442722 020%, 
+    #e6e6ad 080%, 
+    #8fe9e9 100%
+  );
+    
+}
+#title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 90px;
+    color: antiquewhite;
+
+}
+
+ul{
+    font-weight: 800;
+    font-size: 50px;
+    
+}
+
+li{
+    color: blue;
+}
+
+.l1{background-color: #e6e6ad;}
+.l2{background-color: aqua;}
+.l3{background-color: chartreuse;}

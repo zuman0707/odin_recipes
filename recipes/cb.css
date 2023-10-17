@@ -1,0 +1,105 @@
+body{
+    background-color: #c1f8de;
+    font-style: oblique;
+}
+
+#title{
+    color: hsl(113, 84%, 54%);
+    background-color: rgb(131, 68, 248);
+    text-align: center;
+    font-size: 90px;
+}
+
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.des{
+    font-size: xx-large;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(
+    to right, 
+    #85f765 009%, 
+    #92ee86 020%, 
+    #92f68a 020%, 
+    #c1f8de 100%
+  );
+
+}
+
+.p1{
+    background-color: #c2fbe9;
+    font-size: 30;
+    font-family: 'Courier New', Courier, monospace;
+}
+.prestep{
+    font-size: 25;
+    font-weight: 800;
+    color: rgb(148, 19, 8);
+}
+
+.list0{
+    font-size: 30;
+    text-align: center;
+    list-style-position: inside;
+}
+
+.l3{
+    text-transform: capitalize;
+}
+
+.just{
+    font-weight: 700;
+    font-size: 25;
+}
+
+.ing{
+    font-weight: 590;
+    font-size: 30;
+    color: gold;
+    background: linear-gradient(
+    to right, 
+    #075d14 020%, 
+    #36dc15 050%, 
+    #92f68a 060%, 
+    #c1f8de 100%
+  );
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+ul.list{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20;
+    background-color: rgb(172, 254, 199);
+    font-weight: 500;
+}
+
+.step{
+    background: linear-gradient(
+    to right, 
+    #29e445 020%, 
+    #36dc15 050%, 
+    #92f68a 060%, 
+    #c1f8de 100%
+  );
+  font-size: 40;
+  color: rgb(143, 23, 229);
+  font-weight: lighter;
+}
+ol{
+    font-size: 30;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+}
+
+.note{
+    font-size: 100;
+    color: forestgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+}

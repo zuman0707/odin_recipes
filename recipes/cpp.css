@@ -1,0 +1,110 @@
+body{
+    background-color: #b4fefe;
+    font-style: oblique;
+}
+#title{
+    color: hsl(47, 72%, 79%);
+    background-color: rgb(177, 93, 57);
+    text-align: center;
+    font-size: 77px;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.description{
+    color: azure;
+    font-size: xx-large;
+    font-weight: 100;
+    background: linear-gradient(
+    to right, 
+    #3851ce 009%, 
+    #8692ee 020%, 
+    #b4fefe 100%, 
+    #b4fefe 100%
+  );
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.overview{
+    color: chocolate;
+    font-size: 30;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.heading1,.heading2{
+    color: #fccbb6;
+    background: linear-gradient(
+    to right, 
+    #3851ce 009%, 
+    #8692ee 050%, 
+    #b4fefe 050%, 
+    #b4fefe 100%
+  );
+  font-size: 25px;
+  font-style: italic;
+}
+
+div{
+    font-size: 25;
+}
+
+.ing{
+    background: linear-gradient(
+    to right, 
+    #0dde50 009%, 
+    #25e68f 020%, 
+    #b4fefe 100%, 
+    #b4fefe 100%
+  );
+  color: rgb(12, 46, 110);
+  font-size: xx-large;
+}
+
+.list{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: larger;
+    background-color: #77ffff;
+}
+
+.step{
+    background: linear-gradient(
+    to right, 
+    #1f7aca 000%, 
+    #8692ee 020%, 
+    #adbbe6 080%, 
+    #b4fefe 100%
+  );
+  color: rgb(7, 11, 16);
+  font-size: 50;
+  font-weight: 100;
+}
+ol{
+    text-align: center;
+    list-style-position: inside;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-size: 30;
+}
+
+div img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.enjoy{
+    font-weight: 700;
+    font-size: 70;
+    color: blueviolet;
+}
+
