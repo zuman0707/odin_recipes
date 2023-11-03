@@ -16,7 +16,22 @@ body{
 
 }
 
+.title-container{
+    box-sizing: border-box;
+    border: 10px solid black;
+    border-radius: 50px;
+    background-color:#560c0a ;
+    margin: 20px 100px;
+    padding: 5px;
+    
+}
+
 ul{
+    list-style-position: inside;
+    box-sizing: border-box;
+    border: 5px dashed white;
+    padding: 20px;
+    margin: 100px 100px;
     font-weight: 800;
     font-size: 50px;
     
@@ -26,6 +41,15 @@ li{
     color: blue;
 }
 
+.l1,.l2,.l3{
+    border: 5px double red;
+    border-radius: 50px;
+    margin: 50px auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
 .l1{background-color: #e6e6ad;}
 .l2{background-color: aqua;}
 .l3{background-color: chartreuse;}
+
